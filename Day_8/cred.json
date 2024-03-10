@@ -1,0 +1,12 @@
+[
+    {
+        "testcase_id": "TC01",
+        "username" :"vidyar@testleaf.com",
+        "password":"Force@123"
+    },{
+        "testcase_id": "TC002",
+        "username" :"radhakrishnan@testleaf.com",
+        "password":"Sparrow@123"
+    }
+    ]
+    
